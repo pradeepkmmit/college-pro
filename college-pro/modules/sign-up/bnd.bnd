@@ -1,0 +1,4 @@
+Bundle-Name: sign-up
+Bundle-SymbolicName: com.gcl.college.signup
+Bundle-Version: 1.0.0
+Export-Package: com.gcl.college.signup.constants
